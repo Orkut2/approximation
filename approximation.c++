@@ -5,7 +5,7 @@ using namespace std;
 
 const long double target = 6.283185307179586476925286766559005768394338798750211;
 const long int limit = pow(10,10);
-const long double close_enough = pow(10,-10);
+const long double close_enough = pow(10,-20);
 
 int main()
 {
